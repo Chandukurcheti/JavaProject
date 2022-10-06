@@ -1,5 +1,5 @@
 class A{
-   public int a = 1;
+   public int a = 5;
    private int b = 2;
    protected int c =3;
          int d = 4;
